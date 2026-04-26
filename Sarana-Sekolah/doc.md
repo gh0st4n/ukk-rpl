@@ -144,6 +144,3 @@ Berikut adalah daftar akun yang telah dikonfigurasi untuk keperluan pengujian fi
 | Siswa   | ahmad    | siswa123  |
 | Siswa   | siti     | siswa123  |
 | Siswa   | budi     | siswa123  |
-```
-
----
